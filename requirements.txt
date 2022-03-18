@@ -1,0 +1,6 @@
+Levenshtein==0.12.0
+nltk==3.6.7
+numpy==1.22.1
+pandas==1.4.0
+fastapi==0.73.0
+uvicorn==0.17.4
